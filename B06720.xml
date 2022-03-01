@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain reasons why tanned leather ought not to be bought and sold again in this kingdom of England not wrought and converted into made ware, nor in any other place than open and publique fairs and markets by the law appointed.</title>
+            <author>J. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06720</idno>
+            <idno type="STC">Wing W48</idno>
+            <idno type="STC">ESTC R186091</idno>
+            <idno type="EEBO-CITATION">52612377</idno>
+            <idno type="OCLC">ocm 52612377</idno>
+            <idno type="VID">179707</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06720)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179707)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2797:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain reasons why tanned leather ought not to be bought and sold again in this kingdom of England not wrought and converted into made ware, nor in any other place than open and publique fairs and markets by the law appointed.</title>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Imperfect: print show-through with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leather industry and trade --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:179707:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 119 -->
+            <head>Certain Reaſons why Tanned Leather ought not to be bought and ſold again in this Kingdom of <hi>England</hi> not wrought and converted into made Ware, nor in any other place than open and publique Fairs and Markets by the Law appoint<g ref="char:EOLhyphen"/>ed.</head>
+            <p>FIrſt, Becauſe the Law made in the firſt year of King <hi>James</hi> againſt the ſaid Offence is ſtill in force, and was made (no doubt) to prevent many great evils and miſchiefs that might ariſe thereby; and amongſt others ſuch as are herein after mentioned.</p>
+            <p n="2">2. Becauſe the ſaid offence tends greatly to the deceit and abuſe of the Kings Subjects in general, for that thereby much Leather in<g ref="char:EOLhyphen"/>ſufficiently tanned hath been and may be put into, and vented in Wares made of Leather, whereby the Kings Subjects have been, are, and may be greatly deceived and injured.</p>
+            <p n="1">1. In the price they pay for ſuch Ware, it being not worth half ſo much as they give for it, becauſe it will not do half the ſervice as that which is good.</p>
+            <p n="2">2. In their health, for that Boots and Shooes made of ſuch Lea<g ref="char:EOLhyphen"/>ther cannot but take in wet; whereby many have and may get cold and ſickneſs, to their great grief and loſs (yea, and to the peril of their lives) eſpecial to ſuch as are of weakly conſtitutions.</p>
+            <p n="3">3. The oftner Leather is bought and ſold before it is made into Ware, the dearer the Kings Subjects muſt pay for the fame in Ware.</p>
+            <p>Secondly, This Offence tends very much to the hurt and damage of all Arrificers that work and convert Tand Leather into made Ware.</p>
+            <p n="1">1. For that hereby Leather hath been, is, and will be (if not pre<g ref="char:EOLhyphen"/>vented,) ingroſſed and regrated, ſo that they that work and convert it into Ware have been, are, and will be forced to buy it at <gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>econd and third hand; whereas the Law provides they ſhould buy it at the firſt hand of Tanners in open Fairs and Markets, after it hath been there lawfully ſearched and ſealed.</p>
+            <p n="2">2. By means of this Offence of ſelling Tanned Leather ſo con<g ref="char:EOLhyphen"/>trary to the Law, Artificers that convert Leather into made Ware (eſpecially Shoomakers) have been, and may be cheated by thoſe they imploy in making their Ware; for that Leather being ſold <gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n private places, Journy-men Shooemakers have often-times bought
+<pb n="2" facs="tcp:179707:2"/>
+               <!-- PDF PAGE 120 -->bad and inſufficient Leather, and put into their Maſters Wares in<g ref="char:EOLhyphen"/>ſtead of their Maſters good Leather, ſelling and uſing their Maſters good Leather to their own advantage, ſo cheating both their Maſter and his Cuſtomer that buyeth ſuch Ware, thereby alſo ruining their Maſters Trade, which abuſe (was not) nor could be ſo frequently committed, till Leather was ſold in private places ſo contrary to the Law.</p>
+            <p n="3">3. By means of ſelling Tanned Leather in private places contra<g ref="char:EOLhyphen"/>ry to the Law many perſons that keep no open Shops do buy bad and offal-Leather, and make Ware thereof ſelling the ſame not in any open Shop, Fair or Market, but do carry them up and down to private houſes, thereby evading the penalty for bad Ware, decei<g ref="char:EOLhyphen"/>ving thoſe they ſell to, and ſpoiling the Trade of ſuch as ſell good Ware in open Shops and Markets.</p>
+            <p n="4">4. By means of this Offence Artificers that convert Leather into Ware (eſpecially Shooemokers) have been raiſed much in the pri<g ref="char:EOLhyphen"/>ces for making of their Ware, which muſt needs make them dearer to the Buyers.</p>
+            <p>Thirdly, By this evil practiſe of ſelling Tanned Leather ſo con<g ref="char:EOLhyphen"/>trary to Law, open Fairs and Markets appointed for ſelling of Tan<g ref="char:EOLhyphen"/>ned Leather are greatly leſſened and decayed, and in great danger to be quite loſt and ruined (if not timely prevented) and the neceſſary and uſeful Trade of Tanning much impoveriſhed and diſcoura<g ref="char:EOLhyphen"/>ged.</p>
+            <p n="1">1. For firſt, by the frequencie of ſelling Tanned Leather in Shops and private places, there is brought little more than half ſo much Leather to many open Fairs and Markets (eſpecially to the Morket of <hi>Leaden</hi>-Hall <hi>London</hi>) as commonly was accuſtomed be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>And of ſome ſort of Leather not one part of <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>urty is brought to the open Fairs and Markets, but carried from Tanners Yards to their houſes and ſhops that ſell the ſame again; being alſo never ſearched and ſealed, nor ſold in the Markets, as the Law requires.</p>
+            <p n="2">2. Hereby Artificers and converters of good Leather into Ware cannot have good Leather of that ſort for their Money in the Mar<g ref="char:EOLhyphen"/>kets, but are forced to buy ſuch as they can get of them that ingroſs it, at the ſecond or third hand.</p>
+            <p n="3">3. Hereby many Artificers being kept from buying in the Mar<g ref="char:EOLhyphen"/>kets, divers Tanners who tan good Leather and ſell it in the Mar<g ref="char:EOLhyphen"/>kets
+<pb n="3" facs="tcp:179707:2"/>
+               <!-- PDF PAGE 120 -->are oft-times forced to lay up or carry home ſome ſorts of good Leather for want of Chapmen to buy it.</p>
+            <p n="4">4. By this means ſeveral perſons that buy tanned Leather to ſell again to them that work and convert it into made ware, do oft-times agree together to buy that Leather that comes to the Markets at ſuch low rates as they pleaſe themſelves (knowing that Artificers that ſhould buy it in the Markets) are ſo ingaged to them, that they can<g ref="char:EOLhyphen"/>not or dare not buy any but of them in their houſes and ſhops, and that the Tanners muſt ſell it them at ſuch low rates, or carry it back again many miles to their great charge and loſs; and having thus got<g ref="char:EOLhyphen"/>ten and ingroſſed it into their hands do inhance the price to thoſe that buy it of them again.</p>
+            <p>
+               <label>Objection.</label> 
+               <hi>If tanned Leather may not be ſold but in open Fairs and weekly Markets, how ſhall the poorer ſort of Arti<g ref="char:EOLhyphen"/>ficers, that work and convert Leather into Ware be ſupplied with ſuch quantities as they need and are able to pay for?</hi>
+            </p>
+            <p>
+               <label>Anſwer.</label> 
+               <list>
+                  <item>Firſt, No doubt but this matter was well weighed and conſidered by the King and Parliament that made the Law againſt the ſaid Offence; and if there had been a neceſſity of ſelling Lea<g ref="char:EOLhyphen"/>ther otherwiſe than in open Fairs and Markets, they would not have made a Law againſt it; but did (no doubt) upon experience of the evil conſequences thereof make the aforeſaid Law againſt it.</item>
+                  <item>2. Since the making of the ſaid Law, and before this evil pra<g ref="char:EOLhyphen"/>ctice hath been uſed, it cannot be denied but is well known that the poorer ſort of Artificers were ſupplied in open Fairs and weekly-Markets with ſuch quantities as they needed and could pay for.</item>
+               </list>
+               <list>
+                  <item>For firſt, divers Tanners in all open Fairs and Markets cut many Hides of Leather into ſeveral pieces ſelling it in pieces there, each piece being ſearched and ſealed to prevent deceit, as the Law re<g ref="char:EOLhyphen"/>quires; and ſo ſome do ſtill, and others would if ſuch Artificers did come to buy it in the Markets.</item>
+                  <item>2. In <hi>Leaden</hi> Hall <hi>London</hi> is appointed two Markets weekly for ſelling of tanned Leather whereby all may be ſupplied.</item>
+                  <item>3. It is altogether unreaſonable that the conveniencie of a few ſhould be an occaſion of ſo great loſs and damage to the whole King<g ref="char:EOLhyphen"/>dom in general.</item>
+                  <item>
+                     <pb n="4" facs="tcp:179707:3"/>
+                     <!-- PDF PAGE 121 -->
+4. The Law provides that no Wares made of tanned Leather ſhould be expoſed to ſale by any but in their open ſhops, Fairs and Markets, that ſuch Ware may be liable to be ſearched, whether well made and of good Leather, and if any cannot keep an open ſhop, they may make new Ware for ſuch as do, or mend old work as many do.</item>
+                  <item>5. Neither is it juſt or reaſonable that any Interlopers and Ingroſ<g ref="char:EOLhyphen"/>ſers ſhould get away the profit and livelihood of the Tanners, and ſuch as work and convert tanned Leather into Ware, nor yet inhance the prices of ſuch Ware to the damage of the Kings Subjects by their ingroſſing and regrating of Leather.</item>
+                  <item>Laſtly, This evil practice hath already diſcouraged and much hindred the livelihood of ſuch as tan Leather well and ſell it in the Markets according to Law, and incouraged only both ſuch Tanners and Ingroſſers that deceive the Kings Subjects ſo contrary to Law.</item>
+               </list>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
